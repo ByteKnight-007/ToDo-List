@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+    
+}
+
+.striked{
+    text-decoration:line-through;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+  }
+
+.btn{
+    height: 5vh;
+    width:8vw;
+    border-radius: 20rem;
+}
+#btn-add{
+    background-color: greenyellow;
+}
+#btn-save{
+    background-color: greenyellow;
+}
+#btn-edit{
+    background-color: rgb(61, 165, 244);
+}
+.input{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: center;
+}
+#todo{
+    height: 9vh;
+    width: 40vw;
+    border-radius: 25rem;
+    background-color: #ddeff9;
+    
+    
+}
+
+#todoEdit{
+    height: 9vh;
+    width: 40vw;
+    border-radius: 25rem;
+    background-color: #ddeff9;
+}
+
+#todo_list{
+    margin-left: 36vw;
+    margin-top: 10vh;
+    
+}
+.delete-link{
+    text-emphasis-color: red;
+}
+
+p{
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+    
+}
